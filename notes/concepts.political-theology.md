@@ -1,0 +1,13 @@
+---
+id: fxo0qxj2kvesrg2rmp8v0il
+title: Political Theology
+desc: ''
+updated: 1655450765140
+created: 1655441183943
+---
+
+According to [[people.carl-schmitt]], all significant concepts of the modern theory of the state stem from secularized theological concepts. For instance, the conception of the omnipotent lawmaker (be it the people themselves or a political appointee) supplants the traditional conception of an omnipotent God, and the concept of vox populi, vox dei replaced the idea of the divine-right sovereign.
+
+In Schmitt's view, beginning with the Enlightenment (which replaced Christianity with deism), the essentially absolute nature of divine right monarchy was largely transferred from the concept of God to the people themselves. Since Descartes and Bacon, and the Scientific Revolution of the 1600s, the world increasingly came to be viewed in mechanistic terms. Over time, the organic Christian conception inherited from the Scholastics that God had created (and worked to actively sustain) the world transformed first into the deist view that God had simply built the machine, then left it, and then to the more secular view eschewing any view of a divine engineer altogether.
+
+In doing this, the political theology of modernity essentially conceives of law without a lawgiver, denying the concept of the [[concepts.exception]] or [[e.sovereign-decides-exception]].

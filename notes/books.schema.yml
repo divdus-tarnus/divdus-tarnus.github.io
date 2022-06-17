@@ -1,0 +1,7 @@
+schemas:
+- id: books
+  parent: root
+  namespace: true
+  template:
+    id: templates.book
+    type: note
