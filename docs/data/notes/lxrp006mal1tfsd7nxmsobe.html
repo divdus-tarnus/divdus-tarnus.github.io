@@ -1,0 +1,128 @@
+<h1 id="rich-formatting"><a aria-hidden="true" class="anchor-heading" href="#rich-formatting"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rich Formatting</h1>
+<p>Dendron extends regular Markdown with additional syntax. This covers everything in <a href="https://github.github.com/gfm/">GitHub Flavored Markdown (GFM)</a> with additional features that are unique to Dendron. Take a look at some examples in this note to see what's possible. Have the preview view opened (<code>Dendron: Show Preview</code>) to see how these will get rendered.</p>
+<h2 id="markdown-formatting-options"><a aria-hidden="true" class="anchor-heading" href="#markdown-formatting-options"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Markdown Formatting Options</h2>
+<p>Markdown tables and basic formatting are made with the following syntax:</p>
+<pre class="language-markdown"><code class="language-markdown"><span class="token table"><span class="token table-header-row"><span class="token punctuation">|</span><span class="token table-header important"> Formatting    </span><span class="token punctuation">|</span><span class="token table-header important">     Example     </span><span class="token punctuation">|</span>
+</span><span class="token table-line"><span class="token punctuation">|</span> <span class="token punctuation">:------------</span> <span class="token punctuation">|</span> <span class="token punctuation">:-------------:</span> <span class="token punctuation">|</span>
+</span><span class="token table-data-rows"><span class="token punctuation">|</span><span class="token table-data"> Bold          </span><span class="token punctuation">|</span><span class="token table-data"> <span class="token bold"><span class="token punctuation">**</span><span class="token content">Hello World</span><span class="token punctuation">**</span></span> </span><span class="token punctuation">|</span>
+<span class="token punctuation">|</span><span class="token table-data"> Italics       </span><span class="token punctuation">|</span><span class="token table-data">  <span class="token italic"><span class="token punctuation">_</span><span class="token content">Hello World</span><span class="token punctuation">_</span></span>  </span><span class="token punctuation">|</span>
+<span class="token punctuation">|</span><span class="token table-data"> Strikethrough </span><span class="token punctuation">|</span><span class="token table-data"> <span class="token strike"><span class="token punctuation">~~</span><span class="token content">Hello World</span><span class="token punctuation">~~</span></span> </span><span class="token punctuation">|</span>
+</span></span></code></pre>
+<p>The above table becomes rendered as the following, in the preview pane:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th align="left">Formatting</th><th align="center">Example</th></tr></thead><tbody><tr><td align="left">Bold</td><td align="center"><strong>Hello World</strong></td></tr><tr><td align="left">Italics</td><td align="center"><em>Hello World</em></td></tr><tr><td align="left">Strikethrough</td><td align="center"><del>Hello World</del></td></tr></tbody></table>
+<h2 id="images"><a aria-hidden="true" class="anchor-heading" href="#images"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Images</h2>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> Copy any image onto your clipboard, and then use the <code>Paste Image</code> command while focused in your editor pane. This will automatically create a link for you and copy the file contents into the assets directory in your workspace.</p>
+</blockquote>
+<p>Sample Image Link: <code>![Dendron Logo](assets/images/logo_small.png)</code></p>
+<p>Result:</p>
+<p><img src="https://org-dendron-public-assets.s3.amazonaws.com/images/tutorial-logo_small.png" alt="Dendron Logo"></p>
+<blockquote>
+<p>💡 <strong>TIP:</strong> This relies on the <strong>Dendron Paste Image</strong> extension which is installed by default alongside Dendron. For Linux users, you'll need to have <a href="https://opensource.com/article/19/7/xclip"><code>xclip</code></a> (or <a href="https://github.com/bugaevc/wl-clipboard"><code>wl-paste</code></a> if using Wayland) installed.</p>
+</blockquote>
+<h2 id="equations"><a aria-hidden="true" class="anchor-heading" href="#equations"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Equations</h2>
+<p>Math typesetting can be written through <a href="https://wiki.dendron.so/notes/b1919663-cc48-4054-b0cf-4b26fe444907.html">Katex</a></p>
+<div class="math math-display"><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mo>∫</mo><mi mathvariant="normal">_</mi><msup><mrow><mo>−</mo><mi mathvariant="normal">∞</mi></mrow><mi mathvariant="normal">∞</mi></msup><mi>f</mi><mo stretchy="false">(</mo><mi>x</mi><mo stretchy="false">)</mo><mi>d</mi><mi>x</mi></mrow><annotation encoding="application/x-tex">\int\_{-\infty}^\infty f(x)dx</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:2.2222em;vertical-align:-0.8622em;"></span><span class="mop op-symbol large-op" style="margin-right:0.44445em;position:relative;top:-0.0011em;">∫</span><span class="mspace" style="margin-right:0.1667em;"></span><span class="mord" style="margin-right:0.02778em;">_</span><span class="mord"><span class="mord"><span class="mord">−</span><span class="mord">∞</span></span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7144em;"><span style="top:-3.113em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">∞</span></span></span></span></span></span></span></span><span class="mord mathnormal" style="margin-right:0.10764em;">f</span><span class="mopen">(</span><span class="mord mathnormal">x</span><span class="mclose">)</span><span class="mord mathnormal">d</span><span class="mord mathnormal">x</span></span></span></span></span></div>
+<h2 id="diagrams"><a aria-hidden="true" class="anchor-heading" href="#diagrams"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Diagrams</h2>
+<p>Various types of diagrams are supported with the <a href="https://mermaid-js.github.io/mermaid/#/">mermaid</a> visualization syntax.</p>
+<h3 id="flow-charts"><a aria-hidden="true" class="anchor-heading" href="#flow-charts"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Flow Charts</h3>
+<pre><code>```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+```
+</code></pre>
+<div class="mermaid">
+  graph TD;
+    A-->B;
+    A-->C;
+</div>
+<h3 id="sequence-diagrams"><a aria-hidden="true" class="anchor-heading" href="#sequence-diagrams"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Sequence Diagrams</h3>
+<pre><code>```mermaid
+sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+```
+</code></pre>
+<div class="mermaid">
+  sequenceDiagram
+    participant Alice
+    participant Bob
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    John->>Bob: How about you?
+    Bob-->>John: Jolly good!
+</div>
+<h2 id="code-blocks"><a aria-hidden="true" class="anchor-heading" href="#code-blocks"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Code Blocks</h2>
+<p>Markdown provides a way to render syntax highlighting and formatting of code.</p>
+<pre class="language-python"><code class="language-python"><span class="token comment"># Whoa, I'm doing math in Python</span>
+result <span class="token operator">=</span> <span class="token number">2</span> <span class="token operator">+</span> <span class="token number">2</span>
+<span class="token keyword">print</span><span class="token punctuation">(</span>result<span class="token punctuation">)</span>
+</code></pre>
+<p>The above code is in python. Both the editor view and preview view should show some syntactical flavor to the code block. You can also have code blocks with or without designated language markers.</p>
+<pre class="language-bash"><code class="language-bash"><span class="token comment"># Whoa, this is a code block explicitly</span>
+<span class="token comment">## stating it is in bash!</span>
+<span class="token builtin class-name">echo</span> <span class="token string">"This is a bash example!"</span>
+<span class="token function">ps</span> -ef <span class="token operator">|</span> <span class="token function">grep</span> codium
+</code></pre>
+<p>Notice how <code>bash</code> is used on the first line of the code block, and <code>python</code> on the previous code block. If missing a language marker, code blocks look like this:</p>
+<pre><code># Whoa, this is still bash, but without
+## it explicitly stated on the first line!
+echo "This is a bash example!"
+ps -ef | grep codium
+</code></pre>
+<h2 id="note-references"><a aria-hidden="true" class="anchor-heading" href="#note-references"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Note References</h2>
+<p><strong><a href="https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c">Note References</a></strong> are unique to Dendron. You can embed a section of a different note, and have the content in-lined into the current note.</p>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> Create <code>[[recipes.favorites]]</code>, if you haven't yet. We're going to add some content in here to reuse as a note reference!</p>
+</blockquote>
+<p>Add the following contents to <code>[[recipes.favorites]]</code>:</p>
+<pre class="language-markdown"><code class="language-markdown">My favorite recipes, by far. I must avoid.
+
+<span class="token list punctuation">-</span> [[recipes.italian.desserts.tiramisu]]
+<span class="token list punctuation">-</span> [[Chinese Wontons|recipes.chinese.appetizers.wontons]]
+</code></pre>
+<p>In <code>[[recipes]]</code>, add the following contents:</p>
+<pre class="language-markdown"><code class="language-markdown"><span class="token title important"><span class="token punctuation">##</span> Favorites</span>
+
+![[recipes.favorites]]
+</code></pre>
+<p>After completing the above, remove the surrounding backticks from the following and look in the preview view to see how this renders:</p>
+<p><code>![[recipes.favorites]]</code></p>
+<blockquote>
+<p>💡 <strong>TIP:</strong> Note references can get more fine-grained, targeting headers, sections, or blocks of text. You can learn more from the docs in <a href="https://wiki.dendron.so/notes/f1af56bb-db27-47ae-8406-61a98de6c78c">Note References</a>.</p>
+</blockquote>
+<h2 id="next-steps"><a aria-hidden="true" class="anchor-heading" href="#next-steps"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Next Steps</h2>
+<ul>
+<li><a href="/notes/kyjfnf2rnc6vn71iyn9liz7">Conclude the Tutorial</a></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/khv6u4514vnvvy4njhctfru">Linking Notes</a></li>
+</ul>

@@ -1,0 +1,4 @@
+
+If you advocate for legal equality of opportunity for all people in a society, how do you effectively achieve that and maintain it without forcibly redistributing the wealth from those who already have it? Once those people lose their wealth, how do you prevent them taking revenge? And if you should somehow manage to achieve this, how do you prevent power imbalances from arising again?
+
+Classical liberals and minarchist libertarians maintain that equality of opportunity can be defined legally, and that it is sufficient for governing authority to limit the principle of equal access to "hard power" — how the law treats individuals, effectively. Socialists and communists believe that equality of opportunity cannot be simply defined legally, and that institutions of soft power can wield just as much influence and power over outcomes as anything else.

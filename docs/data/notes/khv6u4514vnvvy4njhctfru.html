@@ -1,0 +1,105 @@
+<h1 id="linking-notes"><a aria-hidden="true" class="anchor-heading" href="#linking-notes"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Linking Notes</h1>
+<h2 id="links"><a aria-hidden="true" class="anchor-heading" href="#links"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Links</h2>
+<p>Dendron helps you create links between notes. These links help you organically discover relationships and build out your knowledge graph.</p>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> To create a link, start typing <code>[[</code> and Dendron will show you a list of notes in your workspace that you can link to. Let's go with <code>[[recipes.vegetarian]]</code>. Try it in the editor view, now.</p>
+</blockquote>
+<ul>
+<li>Example (remember to remove the surrounding backticks): <code>[[recipes.vegetarian]]</code></li>
+</ul>
+<p>To navigate to the note in the link, click the link in the preview view. In the editor pane, move the cursor into the link and hit <code>Ctrl+Enter</code>. You might wonder what will happen if the note doesn't exist: it will create the note!</p>
+<p>You can switch back to the previous note with the tab switching shortcut: <code>Ctrl+Tab</code> on most systems.</p>
+<blockquote>
+<p>💡 <strong>TIP:</strong> When you create a wikilink, Dendron automatically registers the link as a <strong>backlink</strong> for the destination note. These appear in the <a href="https://wiki.dendron.so/notes/gHdxXlNMr1w4xqee0n-Mb">Backlinks Pane</a> when the destination note is open. For more information on backlinks:</p>
+<ul>
+<li><a href="https://wiki.dendron.so/notes/3472226a-ff3c-432d-bf5d-10926f39f6c2">Links: Backlinks</a></li>
+<li><a href="https://wiki.dendron.so/notes/f7ebd4aa-8ba7-4bc5-bd00-a1efc5315f07">Workbench: Backlinks Panel</a></li>
+</ul>
+</blockquote>
+<h3 id="link-to-headers"><a aria-hidden="true" class="anchor-heading" href="#link-to-headers"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Link to headers</h3>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> You need headers to link to for this, so add an <code>## Ingredients</code> section to <code>[[recipes.italian.desserts.tiramisu]]</code>. Try it in the editor view. Then:</p>
+<ul>
+<li>Create <code>[[recipes.ingredients.shopping-list]]</code> if it doesn't already exist</li>
+<li>Add <code>[[Tiramisu Ingredients|recipes.italian.desserts.tiramisu#ingredients]]</code> to <code>[[recipes.ingredients.shopping-list]]</code></li>
+</ul>
+</blockquote>
+<p>The <code>#ingredients</code> at the end will link directly to the header <code>## Ingredients</code>. A shortcut to grabbing the link is to place the cursor in the <code>## Ingredients</code> header, then run the command <code>Dendron: Copy Note Link</code> (<code>Ctrl+Shift+C</code> / <code>Cmd+Shift+C</code>). That will copy the link to the clipboard, allowing you to paste in other notes.</p>
+<blockquote>
+<p>💡 <strong>TIP:</strong> Notice how these links use custom link titles, like <strong>Tiramisu Ingredients</strong>. This is called a <strong>labelled wikilink</strong>: <code>[[label|your.note.to.link]]</code>. If a label isn't used, either the <code>title</code> attribute from the frontmatter, or the title of the header you are linking to, is used.</p>
+</blockquote>
+<h2 id="explore-your-knowledge-graph"><a aria-hidden="true" class="anchor-heading" href="#explore-your-knowledge-graph"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Explore Your Knowledge Graph</h2>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> To get a visual representation of your notes, use the <code>Dendron: Show Note Graph</code> command.</p>
+</blockquote>
+<p>This is the <strong><a href="https://wiki.dendron.so/notes/587e6d62-3c5b-49b0-aedc-02f62f0448e6">graph view</a></strong>. You can explore the hierarchical organization of your notes and how they are linked together. We're continually working to improve this feature so keep on the lookout for new capabilities in the note graph view in the future!</p>
+<h4 id="local-note-graph"><a aria-hidden="true" class="anchor-heading" href="#local-note-graph"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Local Note Graph</h4>
+<p>Shows a graph of your current note and immediate neighbors. This is the default view when you run <a href="https://wiki.dendron.so/notes/587e6d62-3c5b-49b0-aedc-02f62f0448e6">Show Note Graph</a>.</p>
+<p><img src="https://org-dendron-public-assets.s3.amazonaws.com/images/graph-view-local-dark.png" alt="Local Note Graph Dark"></p>
+<h4 id="full-note-graph"><a aria-hidden="true" class="anchor-heading" href="#full-note-graph"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Full Note Graph</h4>
+<p>Show graph of all your notes. You can activate this by using the <a href="https://wiki.dendron.so/notes/587e6d62-3c5b-49b0-aedc-02f62f0448e6">Show Note Graph Command</a> command and toggling the <a href="https://wiki.dendron.so/notes/587e6d62-3c5b-49b0-aedc-02f62f0448e6">Show Note Graph</a> option.</p>
+<p><img src="https://org-dendron-public-assets.s3.amazonaws.com/images/graph-view-full-dark.png" alt="Full Note Graph Dark"></p>
+<h2 id="refactoring-in-dendron"><a aria-hidden="true" class="anchor-heading" href="#refactoring-in-dendron"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Refactoring in Dendron</h2>
+<p>You may wonder what happens to your links if you want to change the name of a note or header. Dendron keeps this in mind and provides commands to update your notes. All the while, Dendron updates any and all wikilinks in your notes.</p>
+<h3 id="rename-note"><a aria-hidden="true" class="anchor-heading" href="#rename-note"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rename Note</h3>
+<p>The <a href="https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC">Rename Note</a> command is used to change the name of, and all links to, a single note.</p>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> Use the lookup to navigate to <code>[[recipes.italian.desserts.tiramisu]]</code>. Then:</p>
+<ul>
+<li>Run the command <code>Dendron: Rename Note</code> to change the title to <code>[[recipes.italian.desserts.gelato]]</code>.</li>
+<li>Use the lookup to navigate to <code>[[recipes.ingredients.shopping-list]]</code>. You should see the wikilink there has updated from <code>[[recipes.italian.desserts.tiramisu#ingredients]]</code> to <code>[[recipes.italian.desserts.gelato#ingredients]]</code>, ensuring links are updated!</li>
+</ul>
+</blockquote>
+<h3 id="rename-header"><a aria-hidden="true" class="anchor-heading" href="#rename-header"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Rename Header</h3>
+<p>The <a href="https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC">Rename Header</a> command is used to change the name of, and all links to, a single header.</p>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> Use the lookup to navigate to <code>[[recipes.italian.desserts.gelato]]</code>. Then:</p>
+<ul>
+<li>Place the cursor in <code>## Ingredients</code>, and run the command <code>Dendron: Rename Header</code></li>
+<li>Rename the header to <code>## Best Ingredients</code></li>
+<li>Use the lookup to navigate to <code>[[recipes.ingredients.shopping-list]]</code>. You should see the wikilink there has updated from <code>[[recipes.italian.desserts.gelato#ingredients]]</code> to <code>[[recipes.italian.desserts.gelato#best-ingredients]]</code>, ensuring links are updated!</li>
+</ul>
+</blockquote>
+<p>If you want to migrate a section beneath a certain header to a different note entirely, <a href="https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC">Move Header</a> will do the job and ensure links are updated.</p>
+<h3 id="refactor-hierarchy"><a aria-hidden="true" class="anchor-heading" href="#refactor-hierarchy"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Refactor Hierarchy</h3>
+<p>The <a href="https://wiki.dendron.so/notes/srajljj10V2dl19nCSFiC">Refactor Hierarchy</a> command is used to change the name of, and all links to, a collection of notes.</p>
+<blockquote>
+<p>🌱 <strong>ACTION:</strong> This section will be all about creating and refactoring notes, in order to get an idea for how it all works.</p>
+</blockquote>
+<ul>
+<li>Create the following notes by placing the cursor inside each, and pressing <code>Ctrl+Enter</code>:
+<ul>
+<li><code>[[recipes.vegetarian.tikka-masala]]</code></li>
+<li><code>[[recipes.vegetarian.aloo-paratha]]</code></li>
+<li><code>[[recipes.vegetarian.dosa]]</code></li>
+</ul>
+</li>
+<li>Each of these are Indian food! Let's move them into the <code>indian</code> hierarchy.
+<ul>
+<li>Run the command <code>Dendron: Refactor Hierarchy</code></li>
+<li>At the first prompt, enter <code>recipes.vegetarian</code> (note hierarchy you are targeting)</li>
+<li>At the second prompt, enter <code>recipes.indian</code> (renaming the targeted hierarchy)</li>
+</ul>
+</li>
+</ul>
+<p>A refactor preview should be provided, before making the change, to confirm the changes you are about to make.</p>
+<p><img src="https://org-dendron-public-assets.s3.amazonaws.com/images/refactor-hierarchy-preview-prompt.png" alt="Refactor Hierarchy Preview prompt"></p>
+<p>This will change all of the targeted notes:</p>
+<pre><code>recipes.vegetarian.md               -->	recipes.indian.md
+recipes.vegetarian.tikka-masala.md  -->	recipes.indian.tikka-masala.md
+recipes.vegetarian.aloo-paratha.md  -->	recipes.indian.aloo-paratha.md
+recipes.vegetarian.dosa.md          -->	recipes.indian.dosa.md
+</code></pre>
+<p>Selecting <code>Proceed</code> renames all the notes! There's no need to worry about any broken links throughout your notes, as those are updated by <code>Refactor Hierarchy</code>, too.</p>
+<blockquote>
+<p>💡 <strong>TIP:</strong> We could have chosen to move them all to <code>[[recipes.indian.vegetarian]]</code>, too, if wanting to add <code>vegetarian</code> to recipe hierarchies. Doing this would make it easy to do a lookup against all vegetarian recipes with <code>recipes. vegetarian</code>. Another alternative is to take a look at using <a href="https://wiki.dendron.so/notes/8bc9b3f1-8508-4d3a-a2de-be9f12ef1821">Tags</a>.</p>
+</blockquote>
+<h2 id="next-steps"><a aria-hidden="true" class="anchor-heading" href="#next-steps"><svg aria-hidden="true" viewBox="0 0 16 16"><use xlink:href="#svg-link"></use></svg></a>Next Steps</h2>
+<ul>
+<li>Tutorial Step 4: <a href="/notes/lxrp006mal1tfsd7nxmsobe">Rich Formatting</a></li>
+</ul>
+<hr>
+<strong>Backlinks</strong>
+<ul>
+<li><a href="/notes/yyfpeq3th3h17cgvj8cnjw5">Taking Notes</a></li>
+</ul>

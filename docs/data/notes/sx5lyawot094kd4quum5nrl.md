@@ -1,0 +1,1 @@
+I work with tons of woke people who are still competent and good at what they do. They may be effectively the asymptomatic patients of a *cancer*, but they're still personally competent and even reasonable enough to talk to when the conversation stays on a safe subject.

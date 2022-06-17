@@ -1,0 +1,3524 @@
+{
+  "roots": [
+    {
+      "key": "tivrplnoaurusggrx2rxbz3",
+      "title": "Root",
+      "icon": null,
+      "hasTitleNumberOutlined": false,
+      "vaultName": "Dendron",
+      "navExclude": false,
+      "children": [
+        {
+          "key": "aw2j7x2ddbm6gzccg0bcik9",
+          "title": "Articles",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "78lhsdlitydqit0xe70movu",
+              "title": "Marx",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "7ar1eyz7u7gj322193ad0vq",
+                  "title": "Letter to Mikhailovsky",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "jia68tqq7n65ha0vf8tcbta",
+                  "title": "Letter to Zasulich",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "7dc7ahhl5rnmatxfr4gibh7",
+                  "title": "On the Jewish Question",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "w8minc42euupew5sbjpreez",
+                  "title": "Theses on Feuerbach",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "e2nymdocvy5h228y8u6mfqm",
+          "title": "Books",
+          "icon": "bookOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "mufzqukx2eg2t9ui0v5dlgh",
+              "title": "Anderson",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "2kxij4sy9yi1e333if9t610",
+                  "title": "Lineages of the Absolutist State",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "9lmroxadusbndfeeipfbmrl",
+              "title": "Bond",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "z0lueaqt8jm9cfnod9yujsh",
+                  "title": "Nemesis",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "khsh8fsiby31669dp25gi4d",
+                      "title": "Notes",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "77mrg1qgt0d5epp8z4uon9b",
+              "title": "Caro",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "94iln59kop4pqigtoju9azh",
+                  "title": "The Passage of Power",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ynzm04p33ih4oa0gcggk3ji",
+              "title": "Chandler",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "e2ihiwkllab6ptvvlc83a7t",
+                  "title": "The Visible Hand",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "9wj0tsaezzs9y4zbiwklvi6",
+              "title": "Cohen",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "t9mkjx9hqjtuxam25n86ggu",
+                  "title": "Bukharin and the Bolshevik Revolution",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "yy3uaeor5n80c6kibkakla8",
+              "title": "De Jouvenel",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "dubdjlivk8f3v2ns5bv8wlt",
+                  "title": "On Power",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "8a0e137vsmwyde7j50gnw5s",
+              "title": "Deleuze",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "mohqbliixp2lq7ocnp8krt6",
+                  "title": "A Thousand Plateaus",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "tbtwnxb81yuhmnkcxpwskym",
+              "title": "Deutscher",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "u0pcc0sxn0z9v2mm4439mte",
+                  "title": "The Prophet",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "7umbcakou6i4u18v1dnsxri",
+                  "title": "Trotsky on Stalin",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "lvdazfa3l7mbm4hf6hu3457",
+              "title": "Dugin",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "znlsr4ih2h0sr85esz8uumb",
+                  "title": "The Fourth Political Theory",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "kv3q9q0eychhbospakuti4l",
+              "title": "Dumezil",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9eut5mw347j7w7pswoazba0",
+                  "title": "Mitra-Varuna",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "e7jxaatdbzl5vsw4lbewe0p",
+              "title": "Ellul",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "7bha9joty1yntf0g6ejgs1v",
+                  "title": "Propaganda",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "fvcwe5ts17y9uyoz2sbbzt8",
+              "title": "Feser",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "7vt3osv8a445exd3zxae75h",
+                  "title": "Scholastic Metaphysics",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "1hu1fnq8gs3jc3p2dtdg2ln",
+              "title": "Hegel",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "0fy2yjyq18mbzf2cftin8en",
+                  "title": "The Phenomenology of Spirit",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "dfnmky0k2bo2asr7zf8685l",
+              "title": "Keen",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "134k9k71pcw2snm9f8djbme",
+                  "title": "Debunking Economics",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "n39dt057dn62drdlrjno8v7",
+              "title": "Kolakowski",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "78n8nkr3u4ilhj6zdvkdydi",
+                  "title": "Main Currents of Marxism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "0351xlolgbbiubepf9x364u",
+              "title": "Lefebvre",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "2pb4tmbonpu39jm8skcu2dz",
+                  "title": "Historical Materialism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "qrgxr1qozzmqcnp1fopjnj3",
+                  "title": "Social Justice and the City",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "3q5la5lnfhpprpvwryxjrjc",
+              "title": "List",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "ekmcdqzozq1hfw6ycb2jryw",
+                  "title": "The National System of Political Economy",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "axdbu0wdphks7q7279um754",
+              "title": "Mandel",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "zjkdwowazbkto2o599u58sl",
+                  "title": "Late Capitalism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "2mdjsrgxnps7iv8v8a54ja5",
+              "title": "Marx",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "s6xxvz2fq2arfin45k9m7jo",
+                  "title": "Communist Manifesto",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "oqjtx9vr2wc2jqr0fcvizme",
+                  "title": "Critique of the Gotha Program",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ec391an8vp3l7ldxgezryr6",
+                  "title": "The German Ideology",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "w7d23zzp0bsk7nsss9t81es",
+              "title": "Nietzsche",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "3ml1hwky3fthrhebgkum2ug",
+                  "title": "Also Sprach Zarathustra",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "h5idqmgf501vemcd3cd700p",
+                  "title": "The Gay Science",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "6ht0362qmen6fbkbambir0k",
+              "title": "Plato",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "px4lv98f9o30fipkhjc2zvb",
+                  "title": "Platonic dialogues",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "93pgilfysjmtjt2k0ernf73",
+                      "title": "Charmides",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "2wqmd22co023hcp8jc75yap",
+                      "title": "Crito",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "f8kkgebz7ets0ry4y12u8oc",
+                      "title": "Euthydemus",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "b75979nw47qygmk2daf53ys",
+                      "title": "Ion",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "6b7adjlxvsloegbh7n5uxsl",
+                      "title": "Laches",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "ouusdulmldbljd9jcoxnsva",
+                      "title": "Lysis",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "6z76qzr6ycohkjajadbk553",
+                      "title": "Phaedo",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "3pz47mho01ys3hju0d2w0mh",
+                      "title": "Symposium",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "y8sbcm10xisu0ags8hxr4wy",
+                      "title": "The Republic",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "kuxg3o3dwnkfmujrgv0tw9e",
+              "title": "Polanyi",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "qnlcgsxyipry8vpnidlxu0d",
+                  "title": "The Great Transformation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "yonxlu76n3mqtsw8ueooqw0",
+              "title": "Scheidel",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "o62bfxkvotwmjhpk672tqw4",
+                  "title": "Escape from Rome",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "ikfw4sd3af6bzdt4ik1z67n",
+                      "title": "Review",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "v3vqbbw1wfazhw7vt0gqobu",
+              "title": "Scott",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "701jzpmegwicqerjoiaheeb",
+                  "title": "Seeing like a State",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "mlky5yfefthr1pcr9cztaj1",
+              "title": "Skocpol",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "knnld7aqbzl4vjr03otkcon",
+                  "title": "States and Social Revolutions",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "0zc4nwq9388ykc3dbtqstav",
+              "title": "Trotsky",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "6du2vu3mip9chzrv5r2nc0t",
+                  "title": "The Permanent Revolution",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "nbaxv9vevp22rr8mldyn58q",
+              "title": "Xenophon",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "qu9q2008mi167b05l9o2h8z",
+                  "title": "Anabasis",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "so4omluvx37n15mmju3tg5g",
+              "title": "Zizek",
+              "icon": "bookOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "wbu35lwuxbcu6novqgfm69d",
+                  "title": "Sublime Object of Ideology",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "4zumv5du4dtnq25bkcd3mua",
+          "title": "Concepts",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "aossq23hbyoezq5cvzfefuq",
+              "title": "4hl",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "9blv03xrsjt0vcha6ezgh3t",
+              "title": "Accursed Share",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "2i6gere2xr8udryqx48u9h9",
+              "title": "Althusser",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xisgp7a7975p3wybun4rkeq",
+                  "title": "Epistemological Break",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "fjxlv2avyyk6180on1ixkn3",
+              "title": "Althusserian Theory of Ideology",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "z9pr7n9olin7u0mltnwf2pa",
+              "title": "Amor Fati",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "i0tlqkulmm82j9rr950cdxq",
+              "title": "Appearance in Hegel",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ouf7i7wrayg9zwbpz3it7p5",
+              "title": "Asiatic Mode of Production",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "80m4o5hs8jwm3ok7eg05rdk",
+              "title": "Bad Conscience",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "nchq4sbcgx40vamdw9xsiht",
+              "title": "Baumol's Cost Disease",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "pan5v4tvaadq29h37tcnimf",
+              "title": "Big Other",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1hiwg5jof591xyiwyvvkcxb",
+              "title": "Bioleninism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "2r3pd1if39d0v5xwifcorli",
+              "title": "Capital as Egregore",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "g7o0t2rxrbjn50q18gpja75",
+              "title": "Chesterton's fence",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "xmiv49ruir5ptf57516hq3l",
+              "title": "Correspondence Theory of Truth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "4leju0qbp7ubc2c949707de",
+              "title": "Cybernetics",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "bcrsel7wk9w89tkpqzyzrxu",
+              "title": "Dasein",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "wdajya7jbho7b8m95f8psif",
+              "title": "Deterritorialization and Reterritorialization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "3622idszbyt1q6e4jq78p06",
+              "title": "Dialectical Materialism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "iniobvfkidbtjhh46ahzky5",
+              "title": "Dumezil",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xib868ln2q5vrbhir94j5yd",
+                  "title": "Magician Emperor Jurist Priest King Dichotomy",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "9w9z7cazj2bqvguhunlmeak",
+              "title": "Econophysics",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "bfqk7lwe4kg1bvq42lm4iqw",
+              "title": "Empiriomonism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "jpnlnw3co5bhxkg3x95hqcj",
+              "title": "Equality Equity Dispute",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "u4i9pp4p2x65s5j0sft3nkk",
+              "title": "Ernest Mandel's Stages of Capitalism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "gknqmmh6ret5e13oj2jaact",
+              "title": "Eternal Recurrence",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ft9z95h7227id144eilgjy0",
+              "title": "Exception",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "r9hyds3d4gtwudbwdcu7glm",
+              "title": "First Great Divergence",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "89g7c8raxkz4byqbb6458vh",
+              "title": "Foucault's critique of the repressive hypothesis",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "r7mol2oei9tk3zuubnflvef",
+              "title": "Hegel",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "ef5wetyc1ts10m4vihm0gid",
+                  "title": "alienation (Hegel)",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "rsn2g8pjcc8d94reczwe3p7",
+              "title": "Hegel's conception of history",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "t709m8q2sfznyfbidgeil72",
+              "title": "Historicism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "wpvrnhet2gh6jtxpflaqog7",
+              "title": "Historikerstreit",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kt0pa0qc0aff7mjdgwovqe0",
+              "title": "History",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "neh79j3mkdr23iehijm2aiz",
+                  "title": "Sattelzeit",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "y5fgqggpyy08sbxb6w6km9o",
+              "title": "Holy Opportunism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "umd0j4oa0eb1uf022vp3382",
+              "title": "Ijtihad",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "121yhp877c8pmjbiza2glq8",
+              "title": "Iron Law of Oligarchy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "83vqs8n74g8tp022ceys28v",
+              "title": "Iron Law of Wages",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "92e6gxr6l588d8qn1d4st70",
+              "title": "Jouvenelian model of centralization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "qhuv0ptr6te5nuqk98wbfaa",
+              "title": "Judaism",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "05razmwa8kr1lekyg8zqhgo",
+                  "title": "613 mitzvot",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "g4p2nnvheh3py8g6z2y9f29",
+                  "title": "Mitzvot",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "w1q0ebb2zidttzlb42x6mbb",
+                      "title": "Do not break a vow",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "v8rphi2cwd1au1ub9iyphsl",
+                      "title": "Do not insult a sincere convert with words",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "27g8fk5eycj7uyz0eyl4xhc",
+                      "title": "Do not pressure a borrower for repayment",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "b6o5junaoktf2xs4jgyahr1",
+                  "title": "pikuach nefesh",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "8w5knskzegzgu44lt3wptlh",
+              "title": "Labor Theory of Language Development",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "9d4t0k3alhmhy5ae1ou45ar",
+              "title": "Law",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "rwko3reulc9bv4t401jryf8",
+                  "title": "Legal Originalism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "xphvp8f22qxvumsvo2xn1jj",
+              "title": "Legal Realism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "0prq24szrf5avyrf6tuq67b",
+              "title": "Lenin's Conditions for Workers' Democracy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "107qthyet2r18ke08g6k3hk",
+              "title": "Lindy Effect",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1d4lj7v9rtevpy3i36amdzu",
+              "title": "Little Other",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "b33ri1rqronl2nwdgz4cs93",
+              "title": "Managerialism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "nw5hlpji5hdfk5dmijygk4c",
+              "title": "Marxism",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9yx9xgm6kaks3a5djk5a0bp",
+                  "title": "Alienation",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "bq4akjxm00mxpzk514ldw60",
+                  "title": "Austromarxism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tz1kmzcde1e8ssl09jmsond",
+                  "title": "Commodity Form",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "0dlkdmbua1rela3ko8h5jgt",
+                  "title": "Dictatorship of the Proletariat",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "30ift6pxywmo24u0gj8ks8z",
+                  "title": "Leninism",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "ih0hxn7047bzmlzwfqntdu9",
+                      "title": "labor aristocracy",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "cawsvj6ysg282zdgszvp904",
+                  "title": "National Personal Autonomy",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ow2w3nsor6b3160g7ajmzgi",
+                  "title": "Socialism in One Country",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "lbs8ln33vjt383os9nk5g66",
+                  "title": "Structural Marxism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ewcvedhlrbnqnuxzoo9j3m0",
+                  "title": "Trotskyism",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "nzup6mvz1m8srt6r4ta6lde",
+                      "title": "permanent revolution",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "p3u1x8u0y4qpxr1s1v9dyvn",
+                      "title": "uneven and combined development",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "wp3ufgwlssce79c0s3wvn9c",
+                  "title": "actually existing socialism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "to313hif7rmdf9rsyh2caf7",
+                  "title": "historical materialism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "45dd7frkza1uvpw3qzi4uja",
+                  "title": "reification",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "jsdokce2cu8ksvkpdfb3wb5",
+                  "title": "smychka",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tb38agadl5c3nd6qs2sm1xq",
+                  "title": "surplus value",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "hmpa3u6mcgupo10wjrla20c",
+                      "title": "absolute surplus-value",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "ssi48rvwxeak9zhbk5iiixi",
+                      "title": "relative surplus-value",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "rsjwpi76uijuplyis8ox9wy",
+                  "title": "two-stage theory",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "fwnd8if31ipm90rayxb18sa",
+                  "title": "value-form",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "hgv1zn9n4gzobgvc0ow6r78",
+              "title": "Master Slave Dialectic",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1tqhu1z77cxcdojv5w4vmrk",
+              "title": "Mirror Stage",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1x1sr0rodrqefybg52q6uj3",
+              "title": "Movement Conservatism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "xpupcaljnua85lw1szm05fq",
+              "title": "Necessitarianism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "6zwfrv518f98b5xlzr2j065",
+              "title": "Occasionalism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "e3u4qrhvaqhpnao33wm04fa",
+              "title": "Offensive Realism Vs Defensive Realism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "rpbox8vzta5tl42sqoe6end",
+              "title": "Ostforschung",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ktoyufj7plo4vqt6gfmyt3f",
+              "title": "Patchwork",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "h3joec4t1gkuf99zeexo5a3",
+              "title": "Philosophy",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "lma486hypq35qqu59aimpr3",
+                  "title": "Eleatics",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "lo65bbarmfau71fq8fgwbwc",
+                  "title": "Empiricism",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "jrjtifrn8t1fomhscs86ql1",
+                      "title": "Machism",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "x9flnxw7mvbrjseihrgi8hm",
+                      "title": "logical positivism",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "n911j1vrma2ggqzpp15yqac",
+                  "title": "Plato",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "55agg1ip43tc9mjdo6pkcce",
+                      "title": "Theory of Ideas",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "key": "fxo0qxj2kvesrg2rmp8v0il",
+              "title": "Political Theology",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "l0e4jbava36mnrgcll3s7h3",
+              "title": "Propaganda of the Deed",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "i8eir6uq154605yq6fxi823",
+              "title": "Realism",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "e9va11lxst4arcinp99frze",
+                  "title": "defensive realism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "pya8nzqvh7o59gm6jassj8i",
+                  "title": "offensive realism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "n9d7hcrentlsmm0t7gent9c",
+                  "title": "offshore balancing",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "1jhrq3kdyh4qcybmlosne0q",
+              "title": "Refinement Culture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "7xqi47tpzsuwiemmakcpj9k",
+              "title": "Refutation of criticism of the Talmud",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "w7q72rnvyabuqbohfzmo7if",
+              "title": "Royal Science and Nomad Science",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "aq25ada4o5ick1fe22j3ch6",
+              "title": "Sadhana",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "3kdloa6ht6esd0b94h423oh",
+              "title": "Second Great Divergence",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "g1nzt3wb6oedqm0c45k5wi2",
+              "title": "Sexual Hegemony",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ci5w2rs70bkce97jcsym248",
+              "title": "Sonderweg",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "jtv5y79w2566r2chs353ks4",
+              "title": "Stochastic Process",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "zn74xz82x8geh50c0sx5wfz",
+              "title": "Taylorism's relationship to unions",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "qccaf7wnov3vrt8nrajrslb",
+              "title": "Usa",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "391u2mv3s0ofjqrfokyxmr2",
+                  "title": "Brain Trust",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "ko8hw4vhyel3fp9cxvdms6b",
+              "title": "Ussr",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "1u199zpdox1kdlr6st920rh",
+                  "title": "nomenklatura",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "ecwt95um903ij6j4ns5qvfg",
+                  "title": "obshchina",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "8rgqshxa4myua9qs2ufwygx",
+                  "title": "war communism",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "eo7n0lry2hcetptyisbv35b",
+              "title": "celebration parallax",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "hdonvuxmis8d8sgg00309ar",
+              "title": "coherence theory of truth",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "whsp5igmwdkibt2thk8b256",
+              "title": "deleveraging",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "jyhpapdq3iq61khep3x8lmh",
+              "title": "false consciousness",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ws9w8uwfjles73cb8dn2876",
+              "title": "historical institutionalism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "0z44t6egu1zh6v6w1biro7c",
+              "title": "hypergamy",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "8u6s51bmrkqep5oj6gyopwu",
+              "title": "ideological state apparatus",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "o7dx9ukvsbut25wp1uweitq",
+              "title": "jahiliyya",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ml7t65u9gnippbnki5syrqn",
+              "title": "labor army",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "2rqyw200mox1kw3c7vju1ka",
+              "title": "money types",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "639w6min1h7sm57or8hcbtq",
+              "title": "right to the city",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "j073cldd912yqt4wxg4hpjw",
+              "title": "the Cathedral",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "rjuj5l0gka8119epsimyck5",
+              "title": "transcendental idealism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "21lgvy7s91u8fmbiqfrof9y",
+              "title": "unprincipled exception",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "9kx25r7mw9rw3jqjoij8hyj",
+              "title": "usufruct",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "93idrc5io9c85mw1ch3eooa",
+          "title": "Evergreen notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "ecric4uhw0y8ywr10odtjd7",
+              "title": "Genuine revolutions require both peasants and nobles to revolt",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "7ryzsnl6bnbqfc1mfl9fr5v",
+              "title": "Ideology allows one to enjoy causing pain to enemies",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "bnvk8d353lvc9q8766uzgqx",
+              "title": "Power recruits from the fringes to ensure loyalty",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "fkusp3682hzy1zx5e85eb9o",
+              "title": "The Bolsheviks were predominantly disaffected nobles",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "13zgbvvz6xrofa943erecyz",
+              "title": "The sovereign is he who decides the exception",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "i3r8d3oj83b7y8rwy6cjk58",
+          "title": "History",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "6jnrs7mlwwmopupfnnzen8g",
+              "title": "France",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "0tm5k6dswykhtt9b45fcq07",
+                  "title": "Revolution",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "zo0itv0zhh22o5ydszs4y8s",
+                      "title": "Convention",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "jhia1b11sseo7d5oeul05ys",
+                      "title": "Directory",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "dk1idjwh5hfx3czid7wnbpz",
+                      "title": "Legislative Assembly",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "krb7muru24fy2e591m0chyy",
+                      "title": "National Assembly",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "f5k0e730opkfhb8jrjwrbms",
+                      "title": "Stages of the French Revolution",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "7zhpza84ga8jyyd1xpxsnbg",
+          "title": "Literature notes",
+          "icon": null,
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "wgnhm3k7chgqi1vbvq7sxiz",
+              "title": "Carlsbad",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "1tag6uilie0l8qk8t6i16iv",
+                  "title": "Bioleninism was Hitler's invention",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "epcgzc2c2qbgbfywgwfggjg",
+              "title": "Yarvin",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "9f2ct8ynh2wofm2rchr11u4",
+                  "title": "Progressivism allows you to feel good about kicking your enemies",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "2k85k7eazmuf9m4754sovaf",
+                  "title": "The New Left's seizure of power was essentially a self-coup",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "pfam485yk5ri9kp8mibo24c",
+          "title": "People",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "rjxyx0ba5yjjsaph6qml3jv",
+              "title": "Abou Rijal",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "jyatc1a0sce0hgkjool306r",
+              "title": "Alain de Benoist",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "hew49qeu464e3rd5h2gt5g4",
+              "title": "Amadeo Bordiga",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "apxyno9jdwesfupxgnval2g",
+              "title": "Antoine-Joseph-Elisée-Adolphe Blanc de Saint-Bonnet",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "sykn0fkoj5mgx5qlb0y7ttv",
+              "title": "Anton Pannekoek",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "qbtu1xmyfhvsa68kx5cl1sl",
+              "title": "Arthur Moeller van den Bruck",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "d8oblanz6phlh68nof8qal6",
+              "title": "Augustine",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "txeuhmj9btt7eeacpabbwlc",
+              "title": "Burnham",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "gmpwseoj44irixcorbvhhkt",
+              "title": "Carl Schmitt",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "3o3vi11i5fh5q90737k3v5e",
+              "title": "Chitty",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "vw9ffr8edqjloqvvoxiz5cz",
+              "title": "Curtis Yarvin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "0a0b392rq550opzsueiduf2",
+              "title": "Dad",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "kv1jrz9pflf7edqmesximqz",
+              "title": "Dissident Right",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "97fg2wj0h8rjrnhu3t9oqjd",
+                  "title": "Bronze Age Pervert",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "87t6neusn1x6pox138tfnys",
+                  "title": "Joel Davis",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "6u9i734ihgmyhak5mp2vvzj",
+                  "title": "Nigel Carlsbad",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "m5xsf9gy2zgoixdvbv7ypve",
+                  "title": "Spandrell",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "v05uqz3hihz7m13ny3w088i",
+                  "title": "Zoomer Schopenhauer",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "u4x89nopskzw8iovwodsu8n",
+              "title": "Ernest Mandel",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "il68qby1q6b98auy89111pa",
+              "title": "Ernest Untermann",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "hk259et2pafxgx3k82pn6xo",
+              "title": "Ernst Mach",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "4fx2dsmuunvpzx6lf8zs54t",
+              "title": "Frederick Winslow Taylor",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "2ncf788z4wqpd6f36zartz3",
+              "title": "Friedrich Adolph Sorge",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "1xaxnuswqlxhidlf2vij48x",
+              "title": "Friedrich Engels",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "a7mjhrpnd39etw6ktfs5rir",
+              "title": "G. K. Chesterton",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "mnqbazlz88dccz8yisptwra",
+              "title": "Georges Bataille",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "n769h5x5qgl1gduwxs0hs6o",
+              "title": "Georgy Lukacs",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "k22kjjse23xxclcakou0f4c",
+              "title": "Gilles Deleuze",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "4dsf3noultscu7dgyfgr3e1",
+              "title": "Greek",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "s3bm67ag9l228gmjl0rxzw7",
+                  "title": "Aeschylus",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "h7er7u0qgzkwg01s74ddns6",
+                  "title": "Anaxagoras",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "8iyad69khdwvrev9bq3uf83",
+                  "title": "Anaximander",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "q0zs20nrexv12dom9sdolmq",
+                  "title": "Aristophanes",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "2wvakxt30gqn71844dccxsc",
+                  "title": "Aristotle",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "v4cd05w9at57xolwydlhpqs",
+                  "title": "Democritus",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "3q7utubkuagp2wa6v1cs5rm",
+                  "title": "Empedocles",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "lqwdu46xgye2jv2874p9wqo",
+                  "title": "Heraclitus",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "gebkswmpxwy31y7ufkvtdic",
+                  "title": "Parmenides",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "8unfn68ohn76h7ddeprozrm",
+                  "title": "Plato",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "n52pnca095y7q1hnuhs0j8h",
+                  "title": "Pythagoras",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "mmgajmb9v4aeht48qavv665",
+                  "title": "Socrates",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tzgb49qby99u57j998k8c53",
+                  "title": "Thales",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "qxy3q4k4m86gfhxsbxd1pjz",
+                  "title": "Xenophanes",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "5gbdrjmlhpwa86za7pu1php",
+                  "title": "Xenophon",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "sgte5v5ylnzd627osh3far5",
+                  "title": "Zeno",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "4sie9f3ywu72k9ttzcjlg11",
+              "title": "Heinrich Laufenberg",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "h80ymd7rzv1hr1d1q7gxmlq",
+              "title": "Henri Lefebvre",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "wjlfmyurd6jihbf9sw95jsa",
+              "title": "Hillary Clinton",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "x85wuywufkmq2s630j5ji3l",
+              "title": "Historians",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "k6z7m5u0yppawndmoaiqa3f",
+                  "title": "Ernst Nolte",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "250qf5zr9fix19gllj13z7e",
+                  "title": "Hans-Ulrich Wehler",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "c8nkllh7jg1lins7wsfhu1q",
+                  "title": "Hugh Trevor-Roper",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "tbu5aul7qavluxdda6c496y",
+                  "title": "Richard J. Evans",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "78h895oa6ws5iaemh1entm3",
+              "title": "Ian Wright",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "pvxvdzmzes237brhvbx4jd8",
+              "title": "James Connolly",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ln00n686ua3kxdga4pm33ud",
+              "title": "Joseph Stalin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "s1xq7sgsba4quzwefv6h3kz",
+              "title": "Karl Marx",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ttu3th7cw26emswkz2rjlai",
+              "title": "Karl Popper",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "tkvsnnulm11hrhryflfm5c9",
+              "title": "LBJ",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "06rotpcmi6f1ncazdqqol1c",
+              "title": "Lassalle",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "y920xkyxvrhhmkjjaihojsv",
+              "title": "Leonid Brezhnev",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "zgsip1if2wrccksv08f4jma",
+              "title": "Louis Althusser",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "sswtgdstm4qzbyuj6zx0ig5",
+              "title": "Ludwig Noiré",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "5f649j20ahgy2i5o4357pxg",
+              "title": "Martin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "17n0ubg19ftkbve7rzydm4t",
+              "title": "Max Adler",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "8dfna93re0sgj07i5gcopsx",
+              "title": "Mom",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "mtgdktoyamxkligota8pa0u",
+              "title": "Napoleon",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "xna63i48f4t7847l23j417q",
+                  "title": "Louis-Napoleon Bonaparte",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "hvklbfxmwbabhr9iimdh0a6",
+              "title": "Nietzsche",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "agz38y9bbdt78xkn0gm57am",
+              "title": "Nikolai Bukharin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "sywigpsj239czg1npl7yg8i",
+              "title": "Oswald Spengler",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "x8tdomhoq737158bau7vqe2",
+              "title": "Otto Bauer",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ve2imhevo1jbwshry73ce02",
+              "title": "Otto Brunner",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ro1zj1gl3t7hrub8cwmxbw4",
+              "title": "Rudolf Hilferding",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ueliclvx1jbsh8e93lnylyv",
+              "title": "Tw",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "flechuok9mw24x0orwo89ti",
+                  "title": "Alex Arnold",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "hz9vpojiqkfc8do5zhdmml1",
+                  "title": "Emile",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                },
+                {
+                  "key": "qmbzemnyc2zifwcv0v00zom",
+                  "title": "Megafaunadoodle",
+                  "icon": null,
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "key": "4h6h90hm6708v2etjoiscli",
+              "title": "Vladimir Lenin",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "ks2j3e5u0cgqa8wihb46p75",
+              "title": "de Jouvenel",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "obo5p9dvn9q22hq29opjouw",
+          "title": "Projects",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "5twdgep3j97q56vazpbgst4",
+              "title": "Explore Seattle",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "aa71ue2uz5molq0hak6s141",
+          "title": "Reading Lists",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "aon7mztzd48v3dxyjqbq3ij",
+              "title": "Personal reading list",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "77opv60ak630vjj9fjos7fv",
+              "title": "SyndicalMarxist reading list",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "mco6q35ryw58qfquovdqgnj",
+          "title": "Religion",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "daz7lecx7hfgc76govl5q1n",
+              "title": "Christianity",
+              "icon": "plusOutlined",
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": [
+                {
+                  "key": "rwj0jeua7lpvukwcfnhzwjs",
+                  "title": "Catholicism",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "77vwhewdp34odv04x3mmwyd",
+                      "title": "Liturgical Order",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "nqn8v5743ryj7p6opuqeq2s",
+                  "title": "Councils",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "vg1xckfy93sxpmocnmhmz12",
+                      "title": "Council of Carthage",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "key": "g0fhwn4qebyvkghpkh0vz8j",
+                  "title": "Heresies",
+                  "icon": "plusOutlined",
+                  "hasTitleNumberOutlined": false,
+                  "vaultName": "Dendron",
+                  "navExclude": false,
+                  "children": [
+                    {
+                      "key": "bg0wrp9stjoo1tgsx6p8e26",
+                      "title": "Judaizers",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    },
+                    {
+                      "key": "gz8ksfo4q5m0x8b4ez5ugka",
+                      "title": "Pelagianism",
+                      "icon": null,
+                      "hasTitleNumberOutlined": false,
+                      "vaultName": "Dendron",
+                      "navExclude": false,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "key": "f54pjw8wg5b81lkqpzkvq9w",
+          "title": "Reports",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "lbzymf7t56g6egxb0184aoo",
+              "title": "Untagged Notes",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "jrq580aoxokgsj0g83s364q",
+          "title": "Unproven",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "o109h1ksk3mcpoiqa4e2g1v",
+              "title": "Absolutism Entails Economic and Social Rationalization",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "m8mtjsyk1atkcc7f6k7ly2f",
+              "title": "Army Officers Almost Always Protect the Privileged Class They Come From",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "my67vtpaucsrm1wdlkubz3q",
+              "title": "Build the New Regime before You Replace the Old",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "94fhz4o5myvm3mo7m6nvgnu",
+              "title": "Bukharin Was an Ancestor of the Modern Humanist Marxists",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "auf701k94hkfpnc4zppw01z",
+              "title": "Democratic Athens Led to a Flourishing of Arts and Culture",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "x28h73rru5a278nz2rvy632",
+              "title": "Forced Collectivization Was a Disaster for Agriculture in the Ussr",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "hd6l2wkxkjg4ln44cl7zs4b",
+              "title": "Personal Authority Can Be Just as Much of a Liability in War as a Help",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "5bav4h83johai443dr6zqz4",
+              "title": "Social Revolutions Are Provoked by Superior External Powers",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "q0xaqg5az4z60epwp6d8oq2",
+              "title": "The State Can Be Independent of Class Interests, Contra Marxists",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "7pnn7h6e3n69xz8pjg0q8ba",
+              "title": "Wealth Determined Status in Pre Revolutionary France, Not the Three Estates System",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "auhr0orpcby54i6wgjt12hd",
+          "title": "Videos",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "3vyqdika977ep6biayf1psp",
+              "title": "Chomsky on Leninism",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        },
+        {
+          "key": "ln4bcj1yhhsooig11vrdzdd",
+          "title": "Workbenches",
+          "icon": "plusOutlined",
+          "hasTitleNumberOutlined": false,
+          "vaultName": "Dendron",
+          "navExclude": false,
+          "children": [
+            {
+              "key": "bmjbkpm0crt9nxsce380vkv",
+              "title": "Independence of State from Class",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "39rqve7geitzupefzf4c14r",
+              "title": "Is exploitation unconditionally necessary for humans?",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            },
+            {
+              "key": "b0xklq1wgv9za0ibhru99n5",
+              "title": "Who Has Revolutionary Potential in Marxism?",
+              "icon": null,
+              "hasTitleNumberOutlined": false,
+              "vaultName": "Dendron",
+              "navExclude": false,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "child2parent": {
+    "403": null,
+    "tivrplnoaurusggrx2rxbz3": null,
+    "mco6q35ryw58qfquovdqgnj": "tivrplnoaurusggrx2rxbz3",
+    "daz7lecx7hfgc76govl5q1n": "mco6q35ryw58qfquovdqgnj",
+    "g0fhwn4qebyvkghpkh0vz8j": "daz7lecx7hfgc76govl5q1n",
+    "gz8ksfo4q5m0x8b4ez5ugka": "g0fhwn4qebyvkghpkh0vz8j",
+    "bg0wrp9stjoo1tgsx6p8e26": "g0fhwn4qebyvkghpkh0vz8j",
+    "nqn8v5743ryj7p6opuqeq2s": "daz7lecx7hfgc76govl5q1n",
+    "vg1xckfy93sxpmocnmhmz12": "nqn8v5743ryj7p6opuqeq2s",
+    "rwj0jeua7lpvukwcfnhzwjs": "daz7lecx7hfgc76govl5q1n",
+    "77vwhewdp34odv04x3mmwyd": "rwj0jeua7lpvukwcfnhzwjs",
+    "i3r8d3oj83b7y8rwy6cjk58": "tivrplnoaurusggrx2rxbz3",
+    "6jnrs7mlwwmopupfnnzen8g": "i3r8d3oj83b7y8rwy6cjk58",
+    "0tm5k6dswykhtt9b45fcq07": "6jnrs7mlwwmopupfnnzen8g",
+    "f5k0e730opkfhb8jrjwrbms": "0tm5k6dswykhtt9b45fcq07",
+    "krb7muru24fy2e591m0chyy": "0tm5k6dswykhtt9b45fcq07",
+    "dk1idjwh5hfx3czid7wnbpz": "0tm5k6dswykhtt9b45fcq07",
+    "jhia1b11sseo7d5oeul05ys": "0tm5k6dswykhtt9b45fcq07",
+    "zo0itv0zhh22o5ydszs4y8s": "0tm5k6dswykhtt9b45fcq07",
+    "e2nymdocvy5h228y8u6mfqm": "tivrplnoaurusggrx2rxbz3",
+    "so4omluvx37n15mmju3tg5g": "e2nymdocvy5h228y8u6mfqm",
+    "wbu35lwuxbcu6novqgfm69d": "so4omluvx37n15mmju3tg5g",
+    "nbaxv9vevp22rr8mldyn58q": "e2nymdocvy5h228y8u6mfqm",
+    "qu9q2008mi167b05l9o2h8z": "nbaxv9vevp22rr8mldyn58q",
+    "0zc4nwq9388ykc3dbtqstav": "e2nymdocvy5h228y8u6mfqm",
+    "6du2vu3mip9chzrv5r2nc0t": "0zc4nwq9388ykc3dbtqstav",
+    "mlky5yfefthr1pcr9cztaj1": "e2nymdocvy5h228y8u6mfqm",
+    "knnld7aqbzl4vjr03otkcon": "mlky5yfefthr1pcr9cztaj1",
+    "v3vqbbw1wfazhw7vt0gqobu": "e2nymdocvy5h228y8u6mfqm",
+    "701jzpmegwicqerjoiaheeb": "v3vqbbw1wfazhw7vt0gqobu",
+    "yonxlu76n3mqtsw8ueooqw0": "e2nymdocvy5h228y8u6mfqm",
+    "o62bfxkvotwmjhpk672tqw4": "yonxlu76n3mqtsw8ueooqw0",
+    "ikfw4sd3af6bzdt4ik1z67n": "o62bfxkvotwmjhpk672tqw4",
+    "kuxg3o3dwnkfmujrgv0tw9e": "e2nymdocvy5h228y8u6mfqm",
+    "qnlcgsxyipry8vpnidlxu0d": "kuxg3o3dwnkfmujrgv0tw9e",
+    "6ht0362qmen6fbkbambir0k": "e2nymdocvy5h228y8u6mfqm",
+    "px4lv98f9o30fipkhjc2zvb": "6ht0362qmen6fbkbambir0k",
+    "3pz47mho01ys3hju0d2w0mh": "px4lv98f9o30fipkhjc2zvb",
+    "y8sbcm10xisu0ags8hxr4wy": "px4lv98f9o30fipkhjc2zvb",
+    "6z76qzr6ycohkjajadbk553": "px4lv98f9o30fipkhjc2zvb",
+    "ouusdulmldbljd9jcoxnsva": "px4lv98f9o30fipkhjc2zvb",
+    "6b7adjlxvsloegbh7n5uxsl": "px4lv98f9o30fipkhjc2zvb",
+    "b75979nw47qygmk2daf53ys": "px4lv98f9o30fipkhjc2zvb",
+    "f8kkgebz7ets0ry4y12u8oc": "px4lv98f9o30fipkhjc2zvb",
+    "2wqmd22co023hcp8jc75yap": "px4lv98f9o30fipkhjc2zvb",
+    "93pgilfysjmtjt2k0ernf73": "px4lv98f9o30fipkhjc2zvb",
+    "w7d23zzp0bsk7nsss9t81es": "e2nymdocvy5h228y8u6mfqm",
+    "h5idqmgf501vemcd3cd700p": "w7d23zzp0bsk7nsss9t81es",
+    "3ml1hwky3fthrhebgkum2ug": "w7d23zzp0bsk7nsss9t81es",
+    "2mdjsrgxnps7iv8v8a54ja5": "e2nymdocvy5h228y8u6mfqm",
+    "ec391an8vp3l7ldxgezryr6": "2mdjsrgxnps7iv8v8a54ja5",
+    "oqjtx9vr2wc2jqr0fcvizme": "2mdjsrgxnps7iv8v8a54ja5",
+    "s6xxvz2fq2arfin45k9m7jo": "2mdjsrgxnps7iv8v8a54ja5",
+    "axdbu0wdphks7q7279um754": "e2nymdocvy5h228y8u6mfqm",
+    "zjkdwowazbkto2o599u58sl": "axdbu0wdphks7q7279um754",
+    "3q5la5lnfhpprpvwryxjrjc": "e2nymdocvy5h228y8u6mfqm",
+    "ekmcdqzozq1hfw6ycb2jryw": "3q5la5lnfhpprpvwryxjrjc",
+    "0351xlolgbbiubepf9x364u": "e2nymdocvy5h228y8u6mfqm",
+    "qrgxr1qozzmqcnp1fopjnj3": "0351xlolgbbiubepf9x364u",
+    "2pb4tmbonpu39jm8skcu2dz": "0351xlolgbbiubepf9x364u",
+    "n39dt057dn62drdlrjno8v7": "e2nymdocvy5h228y8u6mfqm",
+    "78n8nkr3u4ilhj6zdvkdydi": "n39dt057dn62drdlrjno8v7",
+    "dfnmky0k2bo2asr7zf8685l": "e2nymdocvy5h228y8u6mfqm",
+    "134k9k71pcw2snm9f8djbme": "dfnmky0k2bo2asr7zf8685l",
+    "1hu1fnq8gs3jc3p2dtdg2ln": "e2nymdocvy5h228y8u6mfqm",
+    "0fy2yjyq18mbzf2cftin8en": "1hu1fnq8gs3jc3p2dtdg2ln",
+    "fvcwe5ts17y9uyoz2sbbzt8": "e2nymdocvy5h228y8u6mfqm",
+    "7vt3osv8a445exd3zxae75h": "fvcwe5ts17y9uyoz2sbbzt8",
+    "e7jxaatdbzl5vsw4lbewe0p": "e2nymdocvy5h228y8u6mfqm",
+    "7bha9joty1yntf0g6ejgs1v": "e7jxaatdbzl5vsw4lbewe0p",
+    "kv3q9q0eychhbospakuti4l": "e2nymdocvy5h228y8u6mfqm",
+    "9eut5mw347j7w7pswoazba0": "kv3q9q0eychhbospakuti4l",
+    "lvdazfa3l7mbm4hf6hu3457": "e2nymdocvy5h228y8u6mfqm",
+    "znlsr4ih2h0sr85esz8uumb": "lvdazfa3l7mbm4hf6hu3457",
+    "tbtwnxb81yuhmnkcxpwskym": "e2nymdocvy5h228y8u6mfqm",
+    "7umbcakou6i4u18v1dnsxri": "tbtwnxb81yuhmnkcxpwskym",
+    "u0pcc0sxn0z9v2mm4439mte": "tbtwnxb81yuhmnkcxpwskym",
+    "8a0e137vsmwyde7j50gnw5s": "e2nymdocvy5h228y8u6mfqm",
+    "mohqbliixp2lq7ocnp8krt6": "8a0e137vsmwyde7j50gnw5s",
+    "yy3uaeor5n80c6kibkakla8": "e2nymdocvy5h228y8u6mfqm",
+    "dubdjlivk8f3v2ns5bv8wlt": "yy3uaeor5n80c6kibkakla8",
+    "9wj0tsaezzs9y4zbiwklvi6": "e2nymdocvy5h228y8u6mfqm",
+    "t9mkjx9hqjtuxam25n86ggu": "9wj0tsaezzs9y4zbiwklvi6",
+    "ynzm04p33ih4oa0gcggk3ji": "e2nymdocvy5h228y8u6mfqm",
+    "e2ihiwkllab6ptvvlc83a7t": "ynzm04p33ih4oa0gcggk3ji",
+    "77mrg1qgt0d5epp8z4uon9b": "e2nymdocvy5h228y8u6mfqm",
+    "94iln59kop4pqigtoju9azh": "77mrg1qgt0d5epp8z4uon9b",
+    "9lmroxadusbndfeeipfbmrl": "e2nymdocvy5h228y8u6mfqm",
+    "z0lueaqt8jm9cfnod9yujsh": "9lmroxadusbndfeeipfbmrl",
+    "khsh8fsiby31669dp25gi4d": "z0lueaqt8jm9cfnod9yujsh",
+    "mufzqukx2eg2t9ui0v5dlgh": "e2nymdocvy5h228y8u6mfqm",
+    "2kxij4sy9yi1e333if9t610": "mufzqukx2eg2t9ui0v5dlgh",
+    "aw2j7x2ddbm6gzccg0bcik9": "tivrplnoaurusggrx2rxbz3",
+    "78lhsdlitydqit0xe70movu": "aw2j7x2ddbm6gzccg0bcik9",
+    "w8minc42euupew5sbjpreez": "78lhsdlitydqit0xe70movu",
+    "7dc7ahhl5rnmatxfr4gibh7": "78lhsdlitydqit0xe70movu",
+    "jia68tqq7n65ha0vf8tcbta": "78lhsdlitydqit0xe70movu",
+    "7ar1eyz7u7gj322193ad0vq": "78lhsdlitydqit0xe70movu",
+    "ln4bcj1yhhsooig11vrdzdd": "tivrplnoaurusggrx2rxbz3",
+    "b0xklq1wgv9za0ibhru99n5": "ln4bcj1yhhsooig11vrdzdd",
+    "39rqve7geitzupefzf4c14r": "ln4bcj1yhhsooig11vrdzdd",
+    "bmjbkpm0crt9nxsce380vkv": "ln4bcj1yhhsooig11vrdzdd",
+    "auhr0orpcby54i6wgjt12hd": "tivrplnoaurusggrx2rxbz3",
+    "3vyqdika977ep6biayf1psp": "auhr0orpcby54i6wgjt12hd",
+    "jrq580aoxokgsj0g83s364q": "tivrplnoaurusggrx2rxbz3",
+    "7pnn7h6e3n69xz8pjg0q8ba": "jrq580aoxokgsj0g83s364q",
+    "q0xaqg5az4z60epwp6d8oq2": "jrq580aoxokgsj0g83s364q",
+    "5bav4h83johai443dr6zqz4": "jrq580aoxokgsj0g83s364q",
+    "hd6l2wkxkjg4ln44cl7zs4b": "jrq580aoxokgsj0g83s364q",
+    "x28h73rru5a278nz2rvy632": "jrq580aoxokgsj0g83s364q",
+    "auf701k94hkfpnc4zppw01z": "jrq580aoxokgsj0g83s364q",
+    "94fhz4o5myvm3mo7m6nvgnu": "jrq580aoxokgsj0g83s364q",
+    "my67vtpaucsrm1wdlkubz3q": "jrq580aoxokgsj0g83s364q",
+    "m8mtjsyk1atkcc7f6k7ly2f": "jrq580aoxokgsj0g83s364q",
+    "o109h1ksk3mcpoiqa4e2g1v": "jrq580aoxokgsj0g83s364q",
+    "f54pjw8wg5b81lkqpzkvq9w": "tivrplnoaurusggrx2rxbz3",
+    "lbzymf7t56g6egxb0184aoo": "f54pjw8wg5b81lkqpzkvq9w",
+    "aa71ue2uz5molq0hak6s141": "tivrplnoaurusggrx2rxbz3",
+    "77opv60ak630vjj9fjos7fv": "aa71ue2uz5molq0hak6s141",
+    "aon7mztzd48v3dxyjqbq3ij": "aa71ue2uz5molq0hak6s141",
+    "obo5p9dvn9q22hq29opjouw": "tivrplnoaurusggrx2rxbz3",
+    "5twdgep3j97q56vazpbgst4": "obo5p9dvn9q22hq29opjouw",
+    "pfam485yk5ri9kp8mibo24c": "tivrplnoaurusggrx2rxbz3",
+    "ueliclvx1jbsh8e93lnylyv": "pfam485yk5ri9kp8mibo24c",
+    "qmbzemnyc2zifwcv0v00zom": "ueliclvx1jbsh8e93lnylyv",
+    "hz9vpojiqkfc8do5zhdmml1": "ueliclvx1jbsh8e93lnylyv",
+    "flechuok9mw24x0orwo89ti": "ueliclvx1jbsh8e93lnylyv",
+    "x85wuywufkmq2s630j5ji3l": "pfam485yk5ri9kp8mibo24c",
+    "tbu5aul7qavluxdda6c496y": "x85wuywufkmq2s630j5ji3l",
+    "k6z7m5u0yppawndmoaiqa3f": "x85wuywufkmq2s630j5ji3l",
+    "c8nkllh7jg1lins7wsfhu1q": "x85wuywufkmq2s630j5ji3l",
+    "250qf5zr9fix19gllj13z7e": "x85wuywufkmq2s630j5ji3l",
+    "4dsf3noultscu7dgyfgr3e1": "pfam485yk5ri9kp8mibo24c",
+    "sgte5v5ylnzd627osh3far5": "4dsf3noultscu7dgyfgr3e1",
+    "5gbdrjmlhpwa86za7pu1php": "4dsf3noultscu7dgyfgr3e1",
+    "qxy3q4k4m86gfhxsbxd1pjz": "4dsf3noultscu7dgyfgr3e1",
+    "tzgb49qby99u57j998k8c53": "4dsf3noultscu7dgyfgr3e1",
+    "mmgajmb9v4aeht48qavv665": "4dsf3noultscu7dgyfgr3e1",
+    "n52pnca095y7q1hnuhs0j8h": "4dsf3noultscu7dgyfgr3e1",
+    "8unfn68ohn76h7ddeprozrm": "4dsf3noultscu7dgyfgr3e1",
+    "gebkswmpxwy31y7ufkvtdic": "4dsf3noultscu7dgyfgr3e1",
+    "lqwdu46xgye2jv2874p9wqo": "4dsf3noultscu7dgyfgr3e1",
+    "3q7utubkuagp2wa6v1cs5rm": "4dsf3noultscu7dgyfgr3e1",
+    "v4cd05w9at57xolwydlhpqs": "4dsf3noultscu7dgyfgr3e1",
+    "2wvakxt30gqn71844dccxsc": "4dsf3noultscu7dgyfgr3e1",
+    "q0zs20nrexv12dom9sdolmq": "4dsf3noultscu7dgyfgr3e1",
+    "8iyad69khdwvrev9bq3uf83": "4dsf3noultscu7dgyfgr3e1",
+    "h7er7u0qgzkwg01s74ddns6": "4dsf3noultscu7dgyfgr3e1",
+    "s3bm67ag9l228gmjl0rxzw7": "4dsf3noultscu7dgyfgr3e1",
+    "qbtu1xmyfhvsa68kx5cl1sl": "pfam485yk5ri9kp8mibo24c",
+    "apxyno9jdwesfupxgnval2g": "pfam485yk5ri9kp8mibo24c",
+    "ro1zj1gl3t7hrub8cwmxbw4": "pfam485yk5ri9kp8mibo24c",
+    "ve2imhevo1jbwshry73ce02": "pfam485yk5ri9kp8mibo24c",
+    "x8tdomhoq737158bau7vqe2": "pfam485yk5ri9kp8mibo24c",
+    "sywigpsj239czg1npl7yg8i": "pfam485yk5ri9kp8mibo24c",
+    "agz38y9bbdt78xkn0gm57am": "pfam485yk5ri9kp8mibo24c",
+    "hvklbfxmwbabhr9iimdh0a6": "pfam485yk5ri9kp8mibo24c",
+    "mtgdktoyamxkligota8pa0u": "pfam485yk5ri9kp8mibo24c",
+    "xna63i48f4t7847l23j417q": "mtgdktoyamxkligota8pa0u",
+    "8dfna93re0sgj07i5gcopsx": "pfam485yk5ri9kp8mibo24c",
+    "17n0ubg19ftkbve7rzydm4t": "pfam485yk5ri9kp8mibo24c",
+    "5f649j20ahgy2i5o4357pxg": "pfam485yk5ri9kp8mibo24c",
+    "sswtgdstm4qzbyuj6zx0ig5": "pfam485yk5ri9kp8mibo24c",
+    "zgsip1if2wrccksv08f4jma": "pfam485yk5ri9kp8mibo24c",
+    "y920xkyxvrhhmkjjaihojsv": "pfam485yk5ri9kp8mibo24c",
+    "4h6h90hm6708v2etjoiscli": "pfam485yk5ri9kp8mibo24c",
+    "06rotpcmi6f1ncazdqqol1c": "pfam485yk5ri9kp8mibo24c",
+    "ttu3th7cw26emswkz2rjlai": "pfam485yk5ri9kp8mibo24c",
+    "s1xq7sgsba4quzwefv6h3kz": "pfam485yk5ri9kp8mibo24c",
+    "ln00n686ua3kxdga4pm33ud": "pfam485yk5ri9kp8mibo24c",
+    "pvxvdzmzes237brhvbx4jd8": "pfam485yk5ri9kp8mibo24c",
+    "78h895oa6ws5iaemh1entm3": "pfam485yk5ri9kp8mibo24c",
+    "wjlfmyurd6jihbf9sw95jsa": "pfam485yk5ri9kp8mibo24c",
+    "h80ymd7rzv1hr1d1q7gxmlq": "pfam485yk5ri9kp8mibo24c",
+    "4sie9f3ywu72k9ttzcjlg11": "pfam485yk5ri9kp8mibo24c",
+    "k22kjjse23xxclcakou0f4c": "pfam485yk5ri9kp8mibo24c",
+    "n769h5x5qgl1gduwxs0hs6o": "pfam485yk5ri9kp8mibo24c",
+    "mnqbazlz88dccz8yisptwra": "pfam485yk5ri9kp8mibo24c",
+    "a7mjhrpnd39etw6ktfs5rir": "pfam485yk5ri9kp8mibo24c",
+    "1xaxnuswqlxhidlf2vij48x": "pfam485yk5ri9kp8mibo24c",
+    "2ncf788z4wqpd6f36zartz3": "pfam485yk5ri9kp8mibo24c",
+    "4fx2dsmuunvpzx6lf8zs54t": "pfam485yk5ri9kp8mibo24c",
+    "hk259et2pafxgx3k82pn6xo": "pfam485yk5ri9kp8mibo24c",
+    "il68qby1q6b98auy89111pa": "pfam485yk5ri9kp8mibo24c",
+    "u4x89nopskzw8iovwodsu8n": "pfam485yk5ri9kp8mibo24c",
+    "kv1jrz9pflf7edqmesximqz": "pfam485yk5ri9kp8mibo24c",
+    "v05uqz3hihz7m13ny3w088i": "kv1jrz9pflf7edqmesximqz",
+    "m5xsf9gy2zgoixdvbv7ypve": "kv1jrz9pflf7edqmesximqz",
+    "6u9i734ihgmyhak5mp2vvzj": "kv1jrz9pflf7edqmesximqz",
+    "87t6neusn1x6pox138tfnys": "kv1jrz9pflf7edqmesximqz",
+    "97fg2wj0h8rjrnhu3t9oqjd": "kv1jrz9pflf7edqmesximqz",
+    "ks2j3e5u0cgqa8wihb46p75": "pfam485yk5ri9kp8mibo24c",
+    "0a0b392rq550opzsueiduf2": "pfam485yk5ri9kp8mibo24c",
+    "vw9ffr8edqjloqvvoxiz5cz": "pfam485yk5ri9kp8mibo24c",
+    "3o3vi11i5fh5q90737k3v5e": "pfam485yk5ri9kp8mibo24c",
+    "gmpwseoj44irixcorbvhhkt": "pfam485yk5ri9kp8mibo24c",
+    "txeuhmj9btt7eeacpabbwlc": "pfam485yk5ri9kp8mibo24c",
+    "d8oblanz6phlh68nof8qal6": "pfam485yk5ri9kp8mibo24c",
+    "sykn0fkoj5mgx5qlb0y7ttv": "pfam485yk5ri9kp8mibo24c",
+    "hew49qeu464e3rd5h2gt5g4": "pfam485yk5ri9kp8mibo24c",
+    "jyatc1a0sce0hgkjool306r": "pfam485yk5ri9kp8mibo24c",
+    "rjxyx0ba5yjjsaph6qml3jv": "pfam485yk5ri9kp8mibo24c",
+    "tkvsnnulm11hrhryflfm5c9": "pfam485yk5ri9kp8mibo24c",
+    "4zumv5du4dtnq25bkcd3mua": "tivrplnoaurusggrx2rxbz3",
+    "ko8hw4vhyel3fp9cxvdms6b": "4zumv5du4dtnq25bkcd3mua",
+    "8rgqshxa4myua9qs2ufwygx": "ko8hw4vhyel3fp9cxvdms6b",
+    "ecwt95um903ij6j4ns5qvfg": "ko8hw4vhyel3fp9cxvdms6b",
+    "1u199zpdox1kdlr6st920rh": "ko8hw4vhyel3fp9cxvdms6b",
+    "qccaf7wnov3vrt8nrajrslb": "4zumv5du4dtnq25bkcd3mua",
+    "391u2mv3s0ofjqrfokyxmr2": "qccaf7wnov3vrt8nrajrslb",
+    "i8eir6uq154605yq6fxi823": "4zumv5du4dtnq25bkcd3mua",
+    "n9d7hcrentlsmm0t7gent9c": "i8eir6uq154605yq6fxi823",
+    "pya8nzqvh7o59gm6jassj8i": "i8eir6uq154605yq6fxi823",
+    "e9va11lxst4arcinp99frze": "i8eir6uq154605yq6fxi823",
+    "h3joec4t1gkuf99zeexo5a3": "4zumv5du4dtnq25bkcd3mua",
+    "n911j1vrma2ggqzpp15yqac": "h3joec4t1gkuf99zeexo5a3",
+    "55agg1ip43tc9mjdo6pkcce": "n911j1vrma2ggqzpp15yqac",
+    "lo65bbarmfau71fq8fgwbwc": "h3joec4t1gkuf99zeexo5a3",
+    "jrjtifrn8t1fomhscs86ql1": "lo65bbarmfau71fq8fgwbwc",
+    "x9flnxw7mvbrjseihrgi8hm": "lo65bbarmfau71fq8fgwbwc",
+    "lma486hypq35qqu59aimpr3": "h3joec4t1gkuf99zeexo5a3",
+    "nw5hlpji5hdfk5dmijygk4c": "4zumv5du4dtnq25bkcd3mua",
+    "ewcvedhlrbnqnuxzoo9j3m0": "nw5hlpji5hdfk5dmijygk4c",
+    "p3u1x8u0y4qpxr1s1v9dyvn": "ewcvedhlrbnqnuxzoo9j3m0",
+    "nzup6mvz1m8srt6r4ta6lde": "ewcvedhlrbnqnuxzoo9j3m0",
+    "30ift6pxywmo24u0gj8ks8z": "nw5hlpji5hdfk5dmijygk4c",
+    "ih0hxn7047bzmlzwfqntdu9": "30ift6pxywmo24u0gj8ks8z",
+    "fwnd8if31ipm90rayxb18sa": "nw5hlpji5hdfk5dmijygk4c",
+    "tb38agadl5c3nd6qs2sm1xq": "nw5hlpji5hdfk5dmijygk4c",
+    "ssi48rvwxeak9zhbk5iiixi": "tb38agadl5c3nd6qs2sm1xq",
+    "hmpa3u6mcgupo10wjrla20c": "tb38agadl5c3nd6qs2sm1xq",
+    "lbs8ln33vjt383os9nk5g66": "nw5hlpji5hdfk5dmijygk4c",
+    "rsjwpi76uijuplyis8ox9wy": "nw5hlpji5hdfk5dmijygk4c",
+    "ow2w3nsor6b3160g7ajmzgi": "nw5hlpji5hdfk5dmijygk4c",
+    "jsdokce2cu8ksvkpdfb3wb5": "nw5hlpji5hdfk5dmijygk4c",
+    "45dd7frkza1uvpw3qzi4uja": "nw5hlpji5hdfk5dmijygk4c",
+    "cawsvj6ysg282zdgszvp904": "nw5hlpji5hdfk5dmijygk4c",
+    "to313hif7rmdf9rsyh2caf7": "nw5hlpji5hdfk5dmijygk4c",
+    "0dlkdmbua1rela3ko8h5jgt": "nw5hlpji5hdfk5dmijygk4c",
+    "tz1kmzcde1e8ssl09jmsond": "nw5hlpji5hdfk5dmijygk4c",
+    "bq4akjxm00mxpzk514ldw60": "nw5hlpji5hdfk5dmijygk4c",
+    "9yx9xgm6kaks3a5djk5a0bp": "nw5hlpji5hdfk5dmijygk4c",
+    "wp3ufgwlssce79c0s3wvn9c": "nw5hlpji5hdfk5dmijygk4c",
+    "9d4t0k3alhmhy5ae1ou45ar": "4zumv5du4dtnq25bkcd3mua",
+    "rwko3reulc9bv4t401jryf8": "9d4t0k3alhmhy5ae1ou45ar",
+    "qhuv0ptr6te5nuqk98wbfaa": "4zumv5du4dtnq25bkcd3mua",
+    "g4p2nnvheh3py8g6z2y9f29": "qhuv0ptr6te5nuqk98wbfaa",
+    "27g8fk5eycj7uyz0eyl4xhc": "g4p2nnvheh3py8g6z2y9f29",
+    "v8rphi2cwd1au1ub9iyphsl": "g4p2nnvheh3py8g6z2y9f29",
+    "w1q0ebb2zidttzlb42x6mbb": "g4p2nnvheh3py8g6z2y9f29",
+    "b6o5junaoktf2xs4jgyahr1": "qhuv0ptr6te5nuqk98wbfaa",
+    "05razmwa8kr1lekyg8zqhgo": "qhuv0ptr6te5nuqk98wbfaa",
+    "kt0pa0qc0aff7mjdgwovqe0": "4zumv5du4dtnq25bkcd3mua",
+    "neh79j3mkdr23iehijm2aiz": "kt0pa0qc0aff7mjdgwovqe0",
+    "r7mol2oei9tk3zuubnflvef": "4zumv5du4dtnq25bkcd3mua",
+    "ef5wetyc1ts10m4vihm0gid": "r7mol2oei9tk3zuubnflvef",
+    "iniobvfkidbtjhh46ahzky5": "4zumv5du4dtnq25bkcd3mua",
+    "xib868ln2q5vrbhir94j5yd": "iniobvfkidbtjhh46ahzky5",
+    "2i6gere2xr8udryqx48u9h9": "4zumv5du4dtnq25bkcd3mua",
+    "xisgp7a7975p3wybun4rkeq": "2i6gere2xr8udryqx48u9h9",
+    "9kx25r7mw9rw3jqjoij8hyj": "4zumv5du4dtnq25bkcd3mua",
+    "21lgvy7s91u8fmbiqfrof9y": "4zumv5du4dtnq25bkcd3mua",
+    "rjuj5l0gka8119epsimyck5": "4zumv5du4dtnq25bkcd3mua",
+    "j073cldd912yqt4wxg4hpjw": "4zumv5du4dtnq25bkcd3mua",
+    "zn74xz82x8geh50c0sx5wfz": "4zumv5du4dtnq25bkcd3mua",
+    "jtv5y79w2566r2chs353ks4": "4zumv5du4dtnq25bkcd3mua",
+    "ci5w2rs70bkce97jcsym248": "4zumv5du4dtnq25bkcd3mua",
+    "g1nzt3wb6oedqm0c45k5wi2": "4zumv5du4dtnq25bkcd3mua",
+    "3kdloa6ht6esd0b94h423oh": "4zumv5du4dtnq25bkcd3mua",
+    "aq25ada4o5ick1fe22j3ch6": "4zumv5du4dtnq25bkcd3mua",
+    "w7q72rnvyabuqbohfzmo7if": "4zumv5du4dtnq25bkcd3mua",
+    "639w6min1h7sm57or8hcbtq": "4zumv5du4dtnq25bkcd3mua",
+    "7xqi47tpzsuwiemmakcpj9k": "4zumv5du4dtnq25bkcd3mua",
+    "1jhrq3kdyh4qcybmlosne0q": "4zumv5du4dtnq25bkcd3mua",
+    "l0e4jbava36mnrgcll3s7h3": "4zumv5du4dtnq25bkcd3mua",
+    "fxo0qxj2kvesrg2rmp8v0il": "4zumv5du4dtnq25bkcd3mua",
+    "ktoyufj7plo4vqt6gfmyt3f": "4zumv5du4dtnq25bkcd3mua",
+    "rpbox8vzta5tl42sqoe6end": "4zumv5du4dtnq25bkcd3mua",
+    "e3u4qrhvaqhpnao33wm04fa": "4zumv5du4dtnq25bkcd3mua",
+    "6zwfrv518f98b5xlzr2j065": "4zumv5du4dtnq25bkcd3mua",
+    "xpupcaljnua85lw1szm05fq": "4zumv5du4dtnq25bkcd3mua",
+    "1x1sr0rodrqefybg52q6uj3": "4zumv5du4dtnq25bkcd3mua",
+    "2rqyw200mox1kw3c7vju1ka": "4zumv5du4dtnq25bkcd3mua",
+    "1tqhu1z77cxcdojv5w4vmrk": "4zumv5du4dtnq25bkcd3mua",
+    "hgv1zn9n4gzobgvc0ow6r78": "4zumv5du4dtnq25bkcd3mua",
+    "b33ri1rqronl2nwdgz4cs93": "4zumv5du4dtnq25bkcd3mua",
+    "1d4lj7v9rtevpy3i36amdzu": "4zumv5du4dtnq25bkcd3mua",
+    "107qthyet2r18ke08g6k3hk": "4zumv5du4dtnq25bkcd3mua",
+    "0prq24szrf5avyrf6tuq67b": "4zumv5du4dtnq25bkcd3mua",
+    "xphvp8f22qxvumsvo2xn1jj": "4zumv5du4dtnq25bkcd3mua",
+    "8w5knskzegzgu44lt3wptlh": "4zumv5du4dtnq25bkcd3mua",
+    "ml7t65u9gnippbnki5syrqn": "4zumv5du4dtnq25bkcd3mua",
+    "92e6gxr6l588d8qn1d4st70": "4zumv5du4dtnq25bkcd3mua",
+    "o7dx9ukvsbut25wp1uweitq": "4zumv5du4dtnq25bkcd3mua",
+    "83vqs8n74g8tp022ceys28v": "4zumv5du4dtnq25bkcd3mua",
+    "121yhp877c8pmjbiza2glq8": "4zumv5du4dtnq25bkcd3mua",
+    "umd0j4oa0eb1uf022vp3382": "4zumv5du4dtnq25bkcd3mua",
+    "8u6s51bmrkqep5oj6gyopwu": "4zumv5du4dtnq25bkcd3mua",
+    "0z44t6egu1zh6v6w1biro7c": "4zumv5du4dtnq25bkcd3mua",
+    "y5fgqggpyy08sbxb6w6km9o": "4zumv5du4dtnq25bkcd3mua",
+    "wpvrnhet2gh6jtxpflaqog7": "4zumv5du4dtnq25bkcd3mua",
+    "t709m8q2sfznyfbidgeil72": "4zumv5du4dtnq25bkcd3mua",
+    "ws9w8uwfjles73cb8dn2876": "4zumv5du4dtnq25bkcd3mua",
+    "rsn2g8pjcc8d94reczwe3p7": "4zumv5du4dtnq25bkcd3mua",
+    "89g7c8raxkz4byqbb6458vh": "4zumv5du4dtnq25bkcd3mua",
+    "r9hyds3d4gtwudbwdcu7glm": "4zumv5du4dtnq25bkcd3mua",
+    "jyhpapdq3iq61khep3x8lmh": "4zumv5du4dtnq25bkcd3mua",
+    "ft9z95h7227id144eilgjy0": "4zumv5du4dtnq25bkcd3mua",
+    "gknqmmh6ret5e13oj2jaact": "4zumv5du4dtnq25bkcd3mua",
+    "u4i9pp4p2x65s5j0sft3nkk": "4zumv5du4dtnq25bkcd3mua",
+    "jpnlnw3co5bhxkg3x95hqcj": "4zumv5du4dtnq25bkcd3mua",
+    "bfqk7lwe4kg1bvq42lm4iqw": "4zumv5du4dtnq25bkcd3mua",
+    "9w9z7cazj2bqvguhunlmeak": "4zumv5du4dtnq25bkcd3mua",
+    "3622idszbyt1q6e4jq78p06": "4zumv5du4dtnq25bkcd3mua",
+    "wdajya7jbho7b8m95f8psif": "4zumv5du4dtnq25bkcd3mua",
+    "whsp5igmwdkibt2thk8b256": "4zumv5du4dtnq25bkcd3mua",
+    "bcrsel7wk9w89tkpqzyzrxu": "4zumv5du4dtnq25bkcd3mua",
+    "4leju0qbp7ubc2c949707de": "4zumv5du4dtnq25bkcd3mua",
+    "xmiv49ruir5ptf57516hq3l": "4zumv5du4dtnq25bkcd3mua",
+    "hdonvuxmis8d8sgg00309ar": "4zumv5du4dtnq25bkcd3mua",
+    "g7o0t2rxrbjn50q18gpja75": "4zumv5du4dtnq25bkcd3mua",
+    "eo7n0lry2hcetptyisbv35b": "4zumv5du4dtnq25bkcd3mua",
+    "2r3pd1if39d0v5xwifcorli": "4zumv5du4dtnq25bkcd3mua",
+    "1hiwg5jof591xyiwyvvkcxb": "4zumv5du4dtnq25bkcd3mua",
+    "pan5v4tvaadq29h37tcnimf": "4zumv5du4dtnq25bkcd3mua",
+    "nchq4sbcgx40vamdw9xsiht": "4zumv5du4dtnq25bkcd3mua",
+    "80m4o5hs8jwm3ok7eg05rdk": "4zumv5du4dtnq25bkcd3mua",
+    "ouf7i7wrayg9zwbpz3it7p5": "4zumv5du4dtnq25bkcd3mua",
+    "i0tlqkulmm82j9rr950cdxq": "4zumv5du4dtnq25bkcd3mua",
+    "z9pr7n9olin7u0mltnwf2pa": "4zumv5du4dtnq25bkcd3mua",
+    "fjxlv2avyyk6180on1ixkn3": "4zumv5du4dtnq25bkcd3mua",
+    "9blv03xrsjt0vcha6ezgh3t": "4zumv5du4dtnq25bkcd3mua",
+    "aossq23hbyoezq5cvzfefuq": "4zumv5du4dtnq25bkcd3mua",
+    "7zhpza84ga8jyyd1xpxsnbg": "tivrplnoaurusggrx2rxbz3",
+    "epcgzc2c2qbgbfywgwfggjg": "7zhpza84ga8jyyd1xpxsnbg",
+    "9f2ct8ynh2wofm2rchr11u4": "epcgzc2c2qbgbfywgwfggjg",
+    "2k85k7eazmuf9m4754sovaf": "epcgzc2c2qbgbfywgwfggjg",
+    "wgnhm3k7chgqi1vbvq7sxiz": "7zhpza84ga8jyyd1xpxsnbg",
+    "1tag6uilie0l8qk8t6i16iv": "wgnhm3k7chgqi1vbvq7sxiz",
+    "93idrc5io9c85mw1ch3eooa": "tivrplnoaurusggrx2rxbz3",
+    "13zgbvvz6xrofa943erecyz": "93idrc5io9c85mw1ch3eooa",
+    "ecric4uhw0y8ywr10odtjd7": "93idrc5io9c85mw1ch3eooa",
+    "bnvk8d353lvc9q8766uzgqx": "93idrc5io9c85mw1ch3eooa",
+    "7ryzsnl6bnbqfc1mfl9fr5v": "93idrc5io9c85mw1ch3eooa",
+    "fkusp3682hzy1zx5e85eb9o": "93idrc5io9c85mw1ch3eooa"
+  }
+}

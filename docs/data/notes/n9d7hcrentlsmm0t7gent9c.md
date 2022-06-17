@@ -1,0 +1,1 @@
+Great powers use regional powers to fight their wars by committing materiel rather than people (essentially allowing them to fight proxy wars). USG did this with Britain in WWII and does so in Ukraine in 2022.
