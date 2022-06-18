@@ -2,13 +2,8 @@
 id: rsjwpi76uijuplyis8ox9wy
 title: two-stage theory
 desc: ''
-updated: 1655441183943
+updated: 1655537196271
 created: 1655441183943
-aliases: stagism
----
-
-tags:: #marxism
-
 ---
 
 Two-stage theory refers to the belief that all nations must necessarily proceed through a stage of capitalist control over the nation before the [[concepts.marxism.dictatorship-of-the-proletariat]] can arise.
