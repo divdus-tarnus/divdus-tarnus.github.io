@@ -1,8 +1,8 @@
 ---
 id: wdajya7jbho7b8m95f8psif
-title: Deterritorialization and Reterritorialization
+title: deterritorialization and reterritorialization
 desc: ''
-updated: 1655447410247
+updated: 1655535040359
 created: 1655441183941
 ---
 

@@ -1,8 +1,8 @@
 ---
 id: umd0j4oa0eb1uf022vp3382
-title: Ijtihad
+title: ijtihad
 desc: ''
-updated: 1655447410242
+updated: 1655536047963
 created: 1655441183942
 tags: law/islamic
 ---

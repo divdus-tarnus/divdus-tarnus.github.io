@@ -1,10 +1,9 @@
 ---
 id: 2r3pd1if39d0v5xwifcorli
-title: Capital as Egregore
+title: Capital as egregore
 desc: ''
-updated: 1655441183941
+updated: 1655535011021
 created: 1655441183941
-tags: marxism, #demonology-and-marxism
 ---
 
 [[people.ian-wright]] conceives of capital as a *literal entity*, a dark Lovecraftian god that is brought into being through alienation of labor. Extraction of surplus value and reduction of all items in a society exchange-value, as both occur under the capitalist mode of production, summons a kind of occult entity that requires that all within society be sacrificed to itself.

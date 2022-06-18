@@ -1,8 +1,8 @@
 ---
 id: xmiv49ruir5ptf57516hq3l
-title: Correspondence Theory of Truth
+title: correspondence theory of truth
 desc: ''
-updated: 1655447410278
+updated: 1655534778420
 created: 1655441183941
 tags: philosophy 
 ---

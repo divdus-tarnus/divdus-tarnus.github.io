@@ -1,8 +1,8 @@
 ---
 id: gknqmmh6ret5e13oj2jaact
-title: Eternal Recurrence
+title: eternal recurrence
 desc: ''
-updated: 1655447410231
+updated: 1655535304094
 created: 1655441183942
 tags: null
 ---

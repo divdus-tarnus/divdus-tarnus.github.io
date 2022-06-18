@@ -1,8 +1,8 @@
 ---
 id: jtv5y79w2566r2chs353ks4
-title: Stochastic Process
+title: stochastic process
 desc: ''
-updated: 1655447410264
+updated: 1655535614152
 created: 1655441183943
 tags: probability
 ---

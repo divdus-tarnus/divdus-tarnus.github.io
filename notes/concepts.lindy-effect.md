@@ -1,8 +1,8 @@
 ---
 id: 107qthyet2r18ke08g6k3hk
-title: Lindy Effect
+title: Lindy effect
 desc: ''
-updated: 1655447410272
+updated: 1655534979006
 created: 1655441183940
 tags: sociology 
 ---

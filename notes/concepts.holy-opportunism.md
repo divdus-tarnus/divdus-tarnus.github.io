@@ -1,8 +1,8 @@
 ---
 id: y5fgqggpyy08sbxb6w6km9o
-title: Holy Opportunism
+title: holy opportunism
 desc: ''
-updated: 1655453296164
+updated: 1655535320643
 created: 1655441183942
 tags: psychology/political
 ---

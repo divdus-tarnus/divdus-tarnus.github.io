@@ -1,8 +1,8 @@
 ---
 id: t709m8q2sfznyfbidgeil72
-title: Historicism
+title: historicism
 desc: ''
-updated: 1655441183942
+updated: 1655535316671
 created: 1655441183942
 tags: philosophy-of-history
 ---

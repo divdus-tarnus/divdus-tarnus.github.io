@@ -1,8 +1,8 @@
 ---
 id: 0prq24szrf5avyrf6tuq67b
-title: Lenin's Conditions for Workers' Democracy
+title: Lenin's conditions for workers' democracy
 desc: ''
-updated: 1655441183940
+updated: 1655534990527
 created: 1655441183940
 ---
 

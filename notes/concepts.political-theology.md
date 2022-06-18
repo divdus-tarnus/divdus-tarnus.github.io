@@ -1,8 +1,8 @@
 ---
 id: fxo0qxj2kvesrg2rmp8v0il
-title: Political Theology
+title: political theology
 desc: ''
-updated: 1655450765140
+updated: 1655534851166
 created: 1655441183943
 ---
 

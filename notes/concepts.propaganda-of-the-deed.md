@@ -1,8 +1,8 @@
 ---
 id: l0e4jbava36mnrgcll3s7h3
-title: Propaganda of the Deed
+title: propaganda of the deed
 desc: ''
-updated: 1655447410283
+updated: 1655534871643
 created: 1655441183943
 tags: anarchism
 ---

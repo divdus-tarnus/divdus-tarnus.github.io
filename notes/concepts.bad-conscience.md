@@ -1,8 +1,8 @@
 ---
 id: 80m4o5hs8jwm3ok7eg05rdk
-title: Bad Conscience
+title: bad conscience
 desc: ''
-updated: 1655441265054
+updated: 1655534639871
 created: 1655441183941
 tags: nietzsche 
 ---

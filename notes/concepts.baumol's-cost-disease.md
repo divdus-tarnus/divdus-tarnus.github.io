@@ -1,8 +1,8 @@
 ---
 id: nchq4sbcgx40vamdw9xsiht
-title: Baumol's Cost Disease
+title: Baumol's cost disease
 desc: ''
-updated: 1655441265052
+updated: 1655534635425
 created: 1655441183939
 tags: economics
 ---
